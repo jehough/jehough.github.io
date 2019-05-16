@@ -1,11 +1,11 @@
 # Site settings
 author: Jim Hough
-title: 
+title: My Coding Experience
 header-img: img/home-bg.png
 email: teachlife@outlook.com
 copyright_name: Jim Hough
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Exploring how to create new things
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jehough
