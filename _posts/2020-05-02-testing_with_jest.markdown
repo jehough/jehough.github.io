@@ -24,10 +24,9 @@ The next step is to put the script in place.  In the package.json file, there is
   "scripts": {
     "test": "jest"
   },
-	
 ```
-	
-	When I installed jest in an app I had already started building, with scripts I had already added, I had to add this manually.  However, when I did it in an empty app, scripts and test were already there that printed out a line about not having specified testing.
+
+When I installed jest in an app I had already started building, with scripts I had already added, I had to add this manually.  However, when I did it in an empty app, scripts and test were already there that printed out a line about not having specified testing.
 	
 Next we need to create a function to test.  Since unit testing is testing function by function, I decided to do multiple functions and have multiple tests.  The documentation gives the example of a sum, so I went with the four basic math functions.
 
