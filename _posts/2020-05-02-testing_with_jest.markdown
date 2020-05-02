@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Testing with Jest"
-date:       2020-05-02 17:40:16 +0000
+date:       2020-05-02 13:40:16 -0400
 permalink:  testing_with_jest
 ---
 
@@ -24,7 +24,8 @@ The next step is to put the script in place.  In the package.json file, there is
   "scripts": {
     "test": "jest"
   },
-	```
+	
+```
 	
 	When I installed jest in an app I had already started building, with scripts I had already added, I had to add this manually.  However, when I did it in an empty app, scripts and test were already there that printed out a line about not having specified testing.
 	
